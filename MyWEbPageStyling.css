@@ -1,0 +1,12 @@
+@font-face{ 
+    font-family:'Gunmetal';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://titan.csit.rmit.edu.au/~s3597908/wp/a1/Fonts/gunmetl.ttf);
+}
+
+}
+ h1{
+    font-family: 'Gunmetal';
+}
+
