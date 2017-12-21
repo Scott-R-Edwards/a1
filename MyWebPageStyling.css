@@ -1,0 +1,36 @@
+@font-face{ 
+    font-family:'Gunmetal';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://titan.csit.rmit.edu.au/~s3597908/wp/a1/Fonts/gunmetl.ttf);
+}
+@font-face{ 
+    font-family:'PacFont';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://titan.csit.rmit.edu.au/~s3597908/wp/a1/Fonts/quidic-shot-up-1361498655.ttf);
+}
+@font-face{ 
+    font-family:'QuidicShotUp';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://titan.csit.rmit.edu.au/~s3597908/wp/a1/Fonts/quidic-shot-up-1361498655.ttf);
+}
+
+ h2{
+    font-family: 'Gunmetal';
+     color: blue;
+}
+
+h1, #fontset h1{
+    font-family: 'PacFont';
+}
+h3{
+    font-family: 'QuidicShotUp';
+}
+p{
+    font-family: 'Ubuntu';
+}
+.mainheader{
+    color: red;
+}
